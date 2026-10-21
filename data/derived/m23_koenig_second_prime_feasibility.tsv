@@ -1,0 +1,40 @@
+# schema	m23-koenig-second-prime-feasibility-v1
+# code_revision	f3aca075db6c2c49d3c5153167f660fcf1759853
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# sage_version	10.9
+# status	plane_points_exist_but_no_certified_second_prime_cover_seed
+# candidate_primes	11,13,17
+# numerical_fiber_vectors	980
+# numerical_precision_bits	700
+# mobius_base_center	4
+# mobius_target_centers	5,6,8,10
+# rational_denominator_bound_digits	80
+# rational_accept_relative_digits	160
+# base_chart_pivot	812
+# base_chart_accepted_coefficients	686
+# target_chart_accepted_coefficients	5:708,6:721,8:748,10:762
+# cross_chart_unknowns	295
+# cross_chart_equations	2939
+# cross_chart_columns	299
+# cross_chart_rank_mod1000003	299
+# cross_chart_nonzero_residuals_mod1000000009	607
+# numerical_fiber_exactly_reconstructed	0
+# solver_input_sha256	a1585a1409aa315c1c226102b74f1d1d449b41cf323f57a309f73ff06a1a360e
+# solver_variables	44
+# solver_equations	46
+# solver_terms	1930
+# solver_max_degree	6
+# benchmark_wall_limit_seconds	120
+# benchmark_threads	4
+# benchmark_msolve_version	0.10.1
+# benchmark_input_sha256	a1585a1409aa315c1c226102b74f1d1d449b41cf323f57a309f73ff06a1a360e
+# benchmark_exit_status	124
+# benchmark_outcome	timeout
+# benchmark_maximum_rss_kib	2784660
+# benchmark_highest_f4_degree	6
+# benchmark_maximum_f4_rows	328997
+# benchmark_maximum_f4_columns	1631261
+prime	affine_points	smooth_points	smooth_boundary_points	smooth_nonboundary_points	selected_alpha	selected_beta
+11	19	13	3	10	0	6
+13	28	23	3	20	0	0
+17	32	24	3	21	0	5

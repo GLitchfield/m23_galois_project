@@ -1,0 +1,50 @@
+# schema	m23-koenig-a-homogeneous-degree110-v2
+# code_revision	3f0aa32bd6c8ebf924fbf29a7c76d747ef884369
+# sage_version	10.9
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# profiles_sha256	032fa38ed91e71b76a60b031702f37da176e8834eef8df9849b01b0b4f51959a
+# family_certificate_sha256	1f9a294e7d5bdcc7f0089dd9a699949ba9e88795e34c1598063f2cffcee412f8
+# prime	19
+# digits	13
+# modulus	42052983462257059
+# status	homogeneous_degree110_genuine_relation_verified
+# series_precision	16384
+# training_terms	16000
+# holdout_terms	384
+# homogeneous_unknowns	15722
+# mod19_rank	15151
+# mod19_kernel_dimension	571
+# mod19_numerator_projection_rank	480
+# plane_multiple_control_dimension	91
+# reduced_forced_valuation	2
+# nonpivot_training_rows	849
+# reduced_width	571
+# reduced_arrays_sha256	cbcffe62c8a42a5ad2311e4643f49b4c3a507e48eefdff25de7297d572298294
+# witness_coefficients_sha256	071261fb2b88ab231f60ab7907618af2d0b2df3ebf1e9ac781af7a8d72e7863e
+# fitting_nonzero_residuals	0
+# holdout_nonzero_residuals	0
+scope	digits	obstruction_rows	obstruction_columns	obstruction_rank	projected_dimension	numerator_projection_rank	plane_control_dimension
+training	2	849	571	0	571	480	91
+training	3	849	571	0	571	480	91
+training	4	849	571	3	568	477	91
+training	5	849	568	0	568	477	91
+training	6	849	568	0	568	477	91
+training	7	849	568	0	568	477	91
+training	8	849	568	0	568	477	91
+training	9	849	568	0	568	477	91
+training	10	849	568	0	568	477	91
+training	11	849	568	0	568	477	91
+training	12	849	568	0	568	477	91
+training	13	849	568	0	568	477	91
+all	2	1233	571	0	571	480	91
+all	3	1233	571	0	571	480	91
+all	4	1233	571	3	568	477	91
+all	5	1233	568	0	568	477	91
+all	6	1233	568	0	568	477	91
+all	7	1233	568	0	568	477	91
+all	8	1233	568	0	568	477	91
+all	9	1233	568	0	568	477	91
+all	10	1233	568	0	568	477	91
+all	11	1233	568	0	568	477	91
+all	12	1233	568	0	568	477	91
+all	13	1233	568	0	568	477	91

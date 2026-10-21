@@ -1,0 +1,34 @@
+# schema	m23-m24-genus11-boundary-gate-v1
+# code_revision	1250c325efa480d871f82115d522ffbe18d66e0d
+# sage_version	10.9
+# source	König dissertation Theorem 5.2 and Appendix 5.1.12
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# model_member	Polynomials And Approximation Data/M24_(2,2,2,8)/m24_(2,2,2,8)_hurwitz_equation.txt
+# model_sha256	8fc3f13944653c89e0de309632f5f11aaccd18aaed41cbf794db036fd57d31a2
+# status	exact_boundary_branches_excluded_bounded_nonintegral_gate_unresolved
+point_0_0_multiplicity	8
+point_0_0_tangent_quartic_v2	9,8,5,4,0;9,8,5,5,0
+point_0_0_q2_branch_gate	no_tangent_root_quartic_newton_slope_-9/4
+point_0_-2_multiplicity	2
+point_0_-2_tangent_ratio_x2_over_t2	8
+point_0_-2_q2_branch_gate	no_tangent_root_v2_8_is_3
+point_1/4_0_multiplicity	2
+point_1/4_0_weight_2_1_initial	4194304*t^2+256*x^4
+point_1/4_0_q2_branch_gate	no_second_order_root_(128c)^2=-1
+t_zero_factor_signature	1^2,1^8,2^1,6^2
+x_zero_factor_signature	1^2,1^8,10^1,12^1
+x_infinity_factor_signature	2^2,4^4
+t_infinity_finite_x_gate	leading_t32_coefficient_nonzero_constant
+t_zero_degree_2_root_gate	multiplicity:1,valuation:1,scaled_minimum:2,unit_counts:1,0
+t_zero_degree_6_root_gate	multiplicity:2,valuation:1,scaled_minimum:6,unit_counts:1,2,4,0
+x_zero_degree_10_root_gate	multiplicity:1,valuation:-2,scaled_minimum:-24,unit_counts:1,2,2,0
+x_zero_degree_12_root_gate	multiplicity:1,valuation:-3,scaled_minimum:-36,unit_counts:2,4,4,8,8,16,0
+x_infinity_degree_2_root_gate	multiplicity:2,valuation:-2,scaled_minimum:-4,unit_counts:0
+x_infinity_degree_4_root_gate	multiplicity:4,valuation:-2,scaled_minimum:-8,unit_counts:1,2,0
+tropical_window	t:-40:-1,x:-40:12
+tropical_candidate_count	100
+tropical_dead_count_depth_8	92
+tropical_simple_count_depth_8	0
+tropical_unresolved_count_depth_8	8
+tropical_dead_terminal_levels	0:52,2:20,3:18,5:1,7:1
+tropical_unresolved_depth_8	-6,0:16;-2,0:84;-2,7:256;-2,8:256;-2,9:256;-2,10:256;-2,11:256;-2,12:256

@@ -1,0 +1,25 @@
+# generated_by	scripts/gap/reconcile_seguin_3a_components.g
+# code_revision	3eb9163118cdba17607e7eb9036c95dd3d8c9302
+# gap_version	4.12.1
+# atlasrep_version	2.1.8
+# ctbllib_version	1.3.7
+# transgrp_version	3.6.5
+# group	M23
+# group_order	10200960
+# atlas_class	3A
+# source_tuple	Seguin Example 5.5
+# published_comparison	Hafner 2022 table Data_BraidOrbitsOfM23
+property	value
+class_size	56672
+fixed_first_centralizer_order	180
+fixed_first_second_generator_orbits	356
+computed_two_component_size_sum	37296
+generating_inverse_pair_orbits	40
+generating_inverse_pair_elements	7200
+nongenerating_second_generator_orbits	316
+nongenerating_second_generator_elements	49472
+both_full_braid_components_contain_inverse_pairs	true
+
+component	inner_full_braid_size	marked_full_braid_size	computed_symmetric_genus	inverse_pair_centralizer_orbits	inverse_pair_elements	beta3_cycle_shape	eta23_cycle_shape	eta234_cycle_shape	representative_second_generator
+seguin_printed_h	28980	295623820800	1206	28	5040	1^6 2^19 3^20 4^96 5^40 6^258 7^32 8^192 10^696 11^12 12^136 14^460 16^64 22^234 28^48 30^40 46^24	1^86 2^14447	3^9660	( 2, 4,16)( 3, 5, 7)( 6,11,12)( 8, 9,14)(10,21,20)(15,18,17)
+other_component	8316	84831183360	325	12	2160	1^2 2^21 3^12 4^20 6^102 7^8 8^80 10^164 12^32 14^192 16^36 22^24 30^16 46^12	1^34 2^4141	3^2772	( 4, 5,11)( 6,23,10)( 7,20,22)( 9,12,19)(14,21,15)(16,18,17)

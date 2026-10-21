@@ -1,0 +1,14 @@
+# format	m23_8a_barth_wenz_strong_continuation_v1
+# code_revision	cfc99efa1ef322846935385319b8e26b07bc77ed
+# seed	data/derived/m23_8a_barth_wenz_root_seed.tsv
+# seed_sha256	28fa9a9b22ba12a182d99dfef07fdc1a31ed365042192e1a361a984c3ce5126e
+# julia_version	1.12.6
+# HomotopyContinuation_version	2.21.0
+# normalization	1,4,2
+# gamma_angle	1.4
+# regularization	0
+# saturation_mode	strong
+# endpoint_sha256	fc6cfd06421756e11ab5b3ed8410eb8da90468d4fb2861fc5c87bb171fa18b2e
+# interpretation	bounded seven-factor continuation; rejected endpoint not committed
+return_code	t	path_residual	accepted_steps	rejected_steps	endgame_steps	extended_precision	endpoint_root_norm	inverse_norm	coefficient_residual	alpha_abs	p_separation	f_separation	q_separation	pf_separation	pq_separation	fq_separation	endpoint_jacobian_condition	verdict
+at_infinity	3.3877983788702471e-09	2.083118203983213e-12	67	0	40	true	5.2325191308306591	75493.861402524504	4.701601771481948e-08	5.2325191308306591	0.04623396524779836	0.059770202299985829	0.010060665323581951	0.0037112497487434186	0.002556360978046214	4.9153857063606312e-09	3.9384561087860228e+28	rejected_infinity

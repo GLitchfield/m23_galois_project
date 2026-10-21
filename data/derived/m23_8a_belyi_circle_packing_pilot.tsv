@@ -1,0 +1,14 @@
+# experiment=test-0071
+# generated=2026-07-21
+# code_revision=65f64f147c448054a44321bd5f8317017372f450
+# command=python3 scripts/pilot_8a_belyi_circle_pack.py --refinements N --newton-iterations 1500
+# input=data/derived/m23_8a_8a_2a_inner_classes.tsv
+# input_sha256=dc6089e7b9bcf9cb890e01306d286327266c0bf6ba7a7a8e48abb5ca52b3f3e8
+# python=3.12.3
+# numpy=2.4.3
+# scipy=1.16.0
+# acceptance=relative_residual<1e-10; each saturation factor>1e-10; saturated_homotopy_complete
+refinements	vertices	edges	triangles	radius_error_inf	center_error_inf	initial_relative_residual	direct_steps	direct_absolute_residual	direct_relative_residual	alpha_abs	q_vandermonde_abs	saturated_track	verdict
+0	140	414	276	8.691714015185426e-12	1.538663033789911e-11	9.607973452091302e-1	207	4.809444452504792e4	3.819965517261829e-5	3.37607063e0	5.93347741e17	step_underflow_at_0.9999998240314214	rejected_residual
+1	830	2484	1656	1.70210512351332e-11	1.301411899795081e-11	9.56334993886702e-1	387	6.15020481588703e0	1.67966171707603e-6	1.70176165e-3	1.16689692e-3	step_underflow_at_0.9999999495810707	rejected_residual
+2	4970	14904	9936	1.042126385186748e-10	3.6343467968141926e-11	9.561102070991262e-1	587	1.6159677196503432e-5	2.555475596454271e-7	1.87302126e-2	5.12282589e-77	step_underflow_at_0.9999999014929067	rejected_collision_and_residual

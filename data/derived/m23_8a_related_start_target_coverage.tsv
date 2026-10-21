@@ -1,0 +1,36 @@
+# generated_by	scripts/gap/audit_8a_related_start_boundaries.g
+# code_revision	a58deea06416cfd481b9ef0c55c3994822028831
+# gap_version	4.12.1
+# group_construction	MathieuGroup(23)
+# target_source	data/derived/m23_8a_8a_2a_inner_classes.tsv
+# target_source_sha256	dc6089e7b9bcf9cb890e01306d286327266c0bf6ba7a7a8e48abb5ca52b3f3e8
+# interpretation	generating opposite-boundary counts among the 20 class-2A*3A lifts of each target
+target_class_id	factor_count	generating_4A_3A_8A	generating_5A_3A_8A	generating_6A_3A_8A
+1	20	6	4	5
+2	20	2	6	9
+3	20	4	7	7
+4	20	3	3	12
+5	20	5	5	5
+6	20	2	3	12
+7	20	3	5	9
+8	20	2	4	10
+9	20	0	2	14
+10	20	5	3	8
+11	20	4	3	8
+12	20	2	4	10
+13	20	5	5	5
+14	20	2	3	8
+15	20	6	4	5
+16	20	3	5	9
+17	20	2	6	9
+18	20	2	2	9
+19	20	4	2	9
+20	20	4	3	8
+21	20	4	7	7
+22	20	3	3	12
+23	20	2	3	8
+24	20	2	2	9
+25	20	4	2	9
+26	20	0	2	14
+27	20	2	3	12
+28	20	5	3	8

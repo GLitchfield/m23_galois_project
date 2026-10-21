@@ -1,0 +1,11 @@
+# schema	m23-koenig-centered-relation-lift-probe-v1
+# code_revision	974eb08c7e0cabd9223983361ce716c0372c6224
+# candidate_sha256	700f5f8ac1a1581bf163f8397f10ce1dfc0eae285b2c323736f58947d2ab5ad6
+# prime	19
+# digits	4
+# series_precision	64
+# coefficient_lift	centered residues [-9,9]
+# minimum_residual_19adic_valuation	1
+# zero_coefficients	0
+# valuation_counts	1:60,2:3,3:1
+# conclusion	centered lift fails modulo 19^2

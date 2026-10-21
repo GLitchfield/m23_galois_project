@@ -1,0 +1,8 @@
+# schema	m23-koenig-c2-bridge-v1
+# code_revision	e0c872961ebfe260e20f1728efbff9d3717d9627
+# sage_version	10.9
+# orbit_sha256	309dae1ea6d5ba685c285b2dac2c2c315c16d580b77cf5c746e25ef1d0cf456f
+# family_sha256	72d349286bffd45526bc5b0be18477ecf1df162f8aa0eff22f9ec040671e557b
+# orbit_code_revision	e0c872961ebfe260e20f1728efbff9d3717d9627
+source_class_vector	code_class_vector	equal_class_positions	braid_swap	braid_swap_order	braid_swap_cycle_shape	pure_degree	pure_genus	c2_degree	c2_genus	coordinate_action	invariant_parameter	plane_coordinates	invariant_family_targets
+2A,2A,3A,5A	3A,5A,2A,2A	3,4	eta34	2	2^490	980	119	980	43	lambda->-lambda;(f3,f4)<->(f5,f6)	a=lambda^2	alpha,beta fixed	a,constant,f1_x0,f1_x1,f1_x2,f1_x3,f1_x4,f2_x0,f2_x1,f2_x2,f2_x3,g1_x0,g1_x1,g2_x0,g2_x1

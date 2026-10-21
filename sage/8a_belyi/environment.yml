@@ -1,0 +1,5 @@
+name: m23-8a-sage
+channels:
+  - conda-forge
+dependencies:
+  - sage=10.9

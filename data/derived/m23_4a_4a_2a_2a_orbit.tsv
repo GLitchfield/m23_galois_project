@@ -1,0 +1,5 @@
+# generated_by	scripts/gap/reproduce_4A_4A_2A_2A.g
+# gap_version	4.12.1
+# group_order	10200960
+class_vector	product_one_fixed_first_tuples	product_one_inner_classes	generating_inner_nielsen_classes	pure_braid_orbit_count	pure_braid_orbit_size	pure_genus	symmetric_orbit_size	symmetric_genus	beta12_cycle_shape	beta13_cycle_shape	beta14_cycle_shape	beta4_cycle_shape	eta34_cycle_shape
+4A,4A,2A,2A	609553	19609	2456	1	2456	447	2456	169	1^52 2^240 3^468 5^104	2^8 3^36 4^38 5^52 6^32 7^88 8^40 11^24 14^16 15^8 23^8	2^8 3^36 4^38 5^52 6^32 7^88 8^40 11^24 14^16 15^8 23^8	1^4 2^24 3^84 4^120 5^104 6^192	1^28 2^1214

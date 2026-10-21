@@ -1,0 +1,6 @@
+# generated_by	scripts/gap/reproduce_15A_2A3.g
+# gap_version	4.12.1
+# group_order	10200960
+computed_class_number	fixed_first_order	fixed_first_centralizer_size	product_one_fixed_first_tuples	product_one_inner_classes	generating_inner_nielsen_classes	pure_braid_orbit_size	pure_braid_genus	symmetric_genus	beta12_cycle_shape	beta13_cycle_shape	beta14_cycle_shape	beta3_cycle_shape	eta23_cycle_shape	eta234_cycle_shape
+9	15	15	3150	210	90	90	4	0	2^4 3^19 5^5	2^4 3^19 5^5	2^4 3^19 5^5	3^1 4^2 5^5 6^9	2^45	3^30
+10	15	15	3150	210	90	90	4	0	2^4 3^19 5^5	2^4 3^19 5^5	2^4 3^19 5^5	3^1 4^2 5^5 6^9	2^45	3^30

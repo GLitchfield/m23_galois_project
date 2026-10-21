@@ -1,0 +1,32 @@
+# schema	m23-koenig-f19-positive-control-v1
+# code_revision	95703c05de05c7bd2154dfbbe613891d5c696400
+# solver_code_revision	95703c05de05c7bd2154dfbbe613891d5c696400
+# sage_version	10.9
+# status	known_f19_positive_control_not_recovered
+# prime	19
+# alpha	7
+# beta	14
+# branch_label	9
+# selected_presentation	scaled-simple-first
+# selected_input_sha256	e7d00cb330e140f57a987570cc396477a41b0d0317de8254858c96d1e5c5f3c9
+# positive_control_recovered	0
+# benchmark_wall_limit_seconds	7200
+# benchmark_threads	4
+# benchmark_vmem_limit_kib	8388608
+# benchmark_max_pairs_per_matrix	2048
+# benchmark_msolve_version	0.10.1
+# benchmark_input_sha256	e7d00cb330e140f57a987570cc396477a41b0d0317de8254858c96d1e5c5f3c9
+# benchmark_exit_status	139
+# benchmark_outcome	failed
+# benchmark_output_bytes	0
+# benchmark_maximum_rss_kib	7372096
+# benchmark_highest_f4_degree	7
+# benchmark_maximum_f4_rows	1424587
+# benchmark_maximum_f4_columns	5473575
+# benchmark_maximum_pair_frontier	141284
+presentation	variables	equations	terms	max_degree	bytes	sha256	known_zero_equations
+scaled-standard	44	46	2042	6	42562	68b14c8a80f0fd3e9fe4a8294faaf9dc9b8d64c84724472ea4b62acd7b708df5	46
+scaled-simple-first	44	46	2042	6	42562	e7d00cb330e140f57a987570cc396477a41b0d0317de8254858c96d1e5c5f3c9	46
+scaled-simple-last	44	46	2042	6	42566	80e61ca632e188ef25ebb06707224290cc93094294b8c66c8cb12f7851aa4617	46
+square-remainder	30	32	24232	10	742186	4ba62b63b1665dd7f12407c77a64c2111380f32b77f681f37bbfbab0a89f89b6	32
+gcd-remainder	30	32	247384	17	8605974	cf479777c8e928119cdf4e6838d415d6b9e773e1672fd5ea64b1245a2e83ddef	32

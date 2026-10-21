@@ -1,0 +1,12 @@
+# generated_by	scripts/gap/audit_koenig_f19_monodromy_candidates.g
+# code_revision	e0c872961ebfe260e20f1728efbff9d3717d9627
+# gap_version	4.12.1
+# transgrp_version	3.6.5
+# required_shapes	1^7 2^8;1^5 3^6;1^3 5^4
+transitive_id	structure	order	transitivity	contained_in_A23	contains_required_inertia_shapes
+23T1	C23	23	1	true	false
+23T2	D46	46	1	false	false
+23T3	C23 : C11	253	1	true	false
+23T4	C23 : C22	506	2	false	false
+23T5	M23	10200960	4	true	true
+23T6	A23	12926008369442488320000	21	true	true

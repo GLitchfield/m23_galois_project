@@ -1,0 +1,30 @@
+# schema	m23-koenig-a-ambient-digit2-v1
+# code_revision	5c0d98c650da37e018fb231a2076a2a831eb6440
+# sage_version	10.9
+# candidate_sha256	700f5f8ac1a1581bf163f8397f10ce1dfc0eae285b2c323736f58947d2ab5ad6
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# family_certificate_sha256	1f9a294e7d5bdcc7f0089dd9a699949ba9e88795e34c1598063f2cffcee412f8
+# space_certificate_sha256	29f3b43fa76954f8c1891d72b9315a28ee874114c9c4f51f14d20474baeb108a
+# prime	19
+# digits	2
+# modulus	361
+# status	ambient_digit2_verified
+# series_precision	16384
+# training_terms	16000
+# holdout_terms	384
+# denominator_cutoff	105
+# numerator_columns	9506
+# denominator_columns	5671
+# normalized_unknowns	15176
+# normalization	P[0,1]=1
+# normalized_rank	15091
+# gauge_dimension	85
+# plane_multiple_dimension	36
+# gauge_choice	nonpivot correction coordinates zero
+# pivot_rows_sha256	fd4663f79bc9b7b76502658d0fd784938f4a0fd2049f7bf8f54ded35b1b9e2a8
+# pivot_columns_sha256	614f86a7bdeb0b26f387b9ce8b9d74f32140065518ce5311f2c27b9dcc21fa2b
+# dormant_nonzero_corrections	645
+# support_nonzero_corrections	9942
+# coefficients_sha256	9605de018865eaaff4df37ddaf25df45a8228106ff85250bb7c30e4973248ca3
+fitting_nonzero_residuals	holdout_nonzero_residuals
+0	0

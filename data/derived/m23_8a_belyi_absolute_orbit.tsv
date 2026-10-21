@@ -1,0 +1,31 @@
+# format	m23_8a_absolute_orbit_v1
+# code_revision	4c5f74e2eacfda71a090853a5ad249cc2a6d4a1e
+# candidate	data/derived/m23_8a_belyi_class1_exact_candidate.json
+# candidate_sha256	d853c6fe9c9f89ebbfb73f3fad6205b7dc26e08ce54524f249c9abe2902ee475
+# descended_cover	data/derived/m23_8a_class1_degree14_descended_cover.json
+# descended_cover_sha256	8fca6e9672f8e02b7bac02074ce62f6eb4451327bf7b2541050024fce068653b
+# class_ledger	data/derived/m23_8a_8a_2a_inner_classes.tsv
+# class_ledger_sha256	dc6089e7b9bcf9cb890e01306d286327266c0bf6ba7a7a8e48abb5ca52b3f3e8
+# sage_version	10.9
+# method	canonical multiplicity-2 point invariant
+# interpretation	exact ordered and finite-branch-unlabelled Galois orbit degrees
+property	value
+ordered_source_normalization_unique	true
+finite_branch_swap_verified	true
+ordered_canonical_invariant	opposite_fibre_e2_point
+ordered_invariant_minpoly	2541865828329/10240000,3601848286233/640000,6524632304829/640000,-281222993488743/1280000,972886534069599/1280000,-1056115510713893/320000,17054743228479888977/933120000,-15131764189654665989/233280000,7452743259464364029/51840000,-51067964805291075877/233280000,241329784602733575007/933120000,-645600250351339177/2332800,56060494663779136447/186624000,-76070253684541802231/233280000,25574506943058540761/77760000,-22576975748210645237/77760000,12528990368558444797/58320000,-502072721634904187/3888000,532550212528101997/8640000,-333351108010745303/14580000,605476737583639573/93312000,-34887144914561/24300,12069392122259423/46656000,-114835247489999/3240000,3828110377213/1152000,-102200619479/540000,60618029/10000,-2657/25,1
+ordered_invariant_degree	28
+unordered_canonical_invariant	sum_of_branch_choice_e2_points
+unordered_invariant_minpoly	1996068900649/135000,391145198716/16875,1822637756353/22500,-654073847252/3375,75920835474239/135000,-10490821978267/16875,16424658743749/33750,-3942773797616/16875,8766641722687/135000,-5094348698/375,44118850717/22500,-2669315296/16875,84849281/15000,-2657/25,1
+unordered_invariant_degree	14
+reciprocal_fixed_field_degree	14
+unordered_invariant_generates_fixed_field	true
+ordered_field_of_moduli_degree	28
+unordered_field_of_moduli_degree	14
+ordered_absolute_galois_orbit_size	28
+unordered_absolute_galois_orbit_size	14
+ordered_passport_class_count	28
+ordered_orbit_exhausts_passport	true
+unordered_orbit_exhausts_branch_swap_pairs	true
+q_defined_cover_in_this_passport	false
+m23_over_q_realization_claimed	false

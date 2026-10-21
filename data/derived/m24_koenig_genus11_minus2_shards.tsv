@@ -1,0 +1,27 @@
+# schema	m23-m24-genus11-minus2-shards-v1
+# code_revision	55700f421c6933aab58fa0c9e404e80d6c549031
+# sage_version	10.9
+# source	König dissertation Theorem 5.2 and Appendix 5.1.12
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# model_sha256	8fc3f13944653c89e0de309632f5f11aaccd18aaed41cbf794db036fd57d31a2
+# status	sharded_continuation_unresolved
+base_depth	13
+base_modulus	16384
+base_terminal_count	580
+base_terminal_sha256	44b32a42fe1714cfeb76457fb275c6d0476327574f1c541778cf62e9cbfa0797
+shard_count	4
+prefix_bits	4
+shard_owned_counts	144,148,144,144
+completed_base_boxes	580
+extra_depth	4
+level_inputs	580,1156,1156,2308
+level_dead_parents	2,642,2,258
+level_simple_totals	0,0,0,0
+level_unresolved	1156,1156,2308,4356
+final_modulus	262144
+final_terminal_count	4356
+final_terminal_sha256	a354bee670ec4936d552384a0bdb8f792c069faa1c8cbbf2c00929bde8ff506d
+simple_count	0
+strong_hensel_count	0
+exact_singular_center_count	0
+checkpoint_transcript_sha256	4e8ac4163cd97a439a0e436090aea98344149566fcfb4f8e2247cef12ae5983e

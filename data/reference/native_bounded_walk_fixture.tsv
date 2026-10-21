@@ -1,0 +1,34 @@
+# schema	m23-native-bounded-walk-fixture-v1
+# gap_version	4.12.1
+# source_checkpoint_sha256	add26b95401d74fbaf29167782667080275d848b8cddabceecef40c2051c75c4
+# source_gap_vertex	1633430	1
+# limit	250
+# status	overflow
+# checked_vertex_count	2
+# discovered_vertex_count	25
+# discovered_class_count	256
+vertex	1	1633430	1	11
+vertex	2	15068	8	4
+vertex	3	465275	1	8
+vertex	4	808639	1	8
+vertex	5	1667001	1	11
+vertex	6	1866668	1	11
+vertex	7	2062219	1	11
+vertex	8	3532745	1	5
+vertex	9	3792570	3	5
+vertex	10	3881026	2	5
+vertex	11	4271390	1	15
+vertex	12	4410516	1	15
+vertex	13	4618339	1	15
+vertex	14	4724078	1	15
+vertex	15	4771578	1	15
+vertex	16	5003211	1	6
+vertex	17	6414288	2	7
+vertex	18	6815325	1	7
+vertex	19	6872287	2	7
+vertex	20	7259856	1	14
+vertex	21	7423709	1	14
+vertex	22	7501576	1	14
+vertex	23	7528475	1	14
+vertex	24	1087700	1	8
+vertex	25	2866598	1	11

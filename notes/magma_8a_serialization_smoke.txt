@@ -1,0 +1,22 @@
+# Official Magma calculator serialization smoke transcript
+# calculator_url=https://magma.maths.usyd.edu.au/calc/
+# submitted_utc=2026-07-22
+# project_revision=1e3323f
+# input=magma/8a_belyi/serialization_smoke.m
+# input_sha256=10ad37d47b19324ed7c225eb921bd7acaf92a2a4765989998ea3be254a231d80
+# magma_version=2.29-8
+# calculator_seed=3840916506
+# calculator_reported_time_seconds=0.020
+# calculator_reported_memory=32.09MB
+# provenance=POST response from the University of Sydney free Magma calculator
+M23_SMOKE_FIELD_POLYNOMIAL=[ -2, 0, 1 ]
+M23_SMOKE_NUMERATOR=[
+[ 2, 1 ],
+[ 0, 0 ],
+[ 3, -1 ]
+]
+M23_SMOKE_DENOMINATOR=[
+[ 1, 0 ],
+[ 0, 1 ]
+]
+M23_SMOKE_COMPLETE=true

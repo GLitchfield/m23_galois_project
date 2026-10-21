@@ -1,0 +1,66 @@
+# schema	m23-koenig-a-relation-supported-invariant-stages-v1
+# code_revision	eae24582c904de13fcda75565d04426b68276b07
+# sage_version	10.9
+# prime	19
+# minimum_digits	4
+# maximum_digits	10
+# beta_degree_cutoff	77
+# selected_numerator_columns	7566
+# unit_invariant_factors	7
+# short_factor_multiplicity	3
+# short_factor_annihilator_exponent	3
+# stage_arrays_sha256	9658ec83821cb909c1707b7bd4b6816b656c9074ace13bfa8a3b7f1f1781b06b
+# support_summary_sha256	f756fd9d418192ec1bb80c0f342d0b3d359123428c388baf5263606b682c4784
+# support_representatives_sha256	07a5b07681eafca6061f7bfde3906a06666b27a5d9333f2edc6d842c6e4ab50a
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# status	constant_bounded_short_factors
+digits	source_generators	valuation	multiplicity	annihilator_exponent
+4	98	0	7	4
+4	98	1	3	3
+4	98	2	0	2
+4	98	3	0	1
+5	95	0	7	5
+5	95	1	0	4
+5	95	2	3	3
+5	95	3	0	2
+5	95	4	0	1
+6	92	0	7	6
+6	92	1	0	5
+6	92	2	0	4
+6	92	3	3	3
+6	92	4	0	2
+6	92	5	0	1
+7	89	0	7	7
+7	89	1	0	6
+7	89	2	0	5
+7	89	3	0	4
+7	89	4	3	3
+7	89	5	0	2
+7	89	6	0	1
+8	86	0	7	8
+8	86	1	0	7
+8	86	2	0	6
+8	86	3	0	5
+8	86	4	0	4
+8	86	5	3	3
+8	86	6	0	2
+8	86	7	0	1
+9	83	0	7	9
+9	83	1	0	8
+9	83	2	0	7
+9	83	3	0	6
+9	83	4	0	5
+9	83	5	0	4
+9	83	6	3	3
+9	83	7	0	2
+9	83	8	0	1
+10	80	0	7	10
+10	80	1	0	9
+10	80	2	0	8
+10	80	3	0	7
+10	80	4	0	6
+10	80	5	0	5
+10	80	6	0	4
+10	80	7	3	3
+10	80	8	0	2
+10	80	9	0	1

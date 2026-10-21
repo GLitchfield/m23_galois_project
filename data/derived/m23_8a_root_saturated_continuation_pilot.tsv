@@ -1,0 +1,19 @@
+# experiment=test-0073
+# generated=2026-07-21
+# code_revision=2b250439ee5e4ff65ba9d9a28404a147507e6bf0
+# seed_command=PYTHONPATH=/tmp/m23_8a_python_deps python3 scripts/pilot_8a_belyi_circle_pack.py --refinements 2 --root-seed-dir /tmp/m23_8a_root_charts --seed-only
+# seed=/tmp/m23_8a_root_charts/root_seed_4_2_1.tsv
+# seed_sha256=8c1f7394772a1d5cfbb5e711fcf175c0a1df2765821b4e2a466ceb59773e860d
+# input=data/derived/m23_8a_8a_2a_inner_classes.tsv
+# input_sha256=dc6089e7b9bcf9cb890e01306d286327266c0bf6ba7a7a8e48abb5ca52b3f3e8
+# julia=1.12.6
+# HomotopyContinuation=2.21.0
+# command_template=julia --project=julia/8a_belyi julia/8a_belyi/run_root_saturated_continuation.jl SEED 1 4,2,1 GAMMA REGULARIZATION ENDPOINT_PREFIX
+# acceptance=return_code=success; interval_certified; coefficient_residual<1e-10; alpha_abs>1e-8; all four chordal separations>1e-8; finite inverse coordinates
+gamma_angle	regularization	return_code	t	path_residual	endpoint_root_norm	scaled_inverse_norm	alpha_abs	minimum_chordal_separation	endpoint_condition	rank_1e12	verdict
+0	1e-4	at_infinity	1.1269739217269196e-6	1.0458531811505642e-16	5.4396591922834816e1	6.2493029202408571e9	3.1765619832985183e-2	2.061185431632924e-2	5.2189251550601316e25	26	rejected_infinity
+0.7	1e-4	at_infinity	8.0866425610889858e-3	7.7679204980398283e-16	9.4963903178634848e2	7.4669793144953064e2	9.4963903178634848e2	9.0360369839182428e-3	8.9622850623573586e7	28	rejected_infinity
+1.4	1e-4	at_infinity	3.1114134044712105e-5	1.1768841802696974e-16	3.5700709436771241e1	2.2634792058754328e8	6.4853870938328733	1.4791345651894548e-2	4.1798099741417685e24	27	rejected_infinity
+2.1	1e-4	at_infinity	1.4888012007315827e-5	1.2764444662211279e-16	2.4289351587135113e2	4.7304123750460017e8	2.4289351587135113e2	2.6607478484149634e-2	4.9458682391653644e25	27	rejected_infinity
+0	1e-2	at_infinity	3.9196514430478761e-6	3.4225137172089739e-16	7.6614147299112824e2	1.7967928815235149e7	7.6614147299112824e2	3.7477283240790235e-2	1.3047352727873813e25	26	rejected_infinity
+0	1	at_infinity	5.0596216507759841e-11	2.6202658116573606e-16	5.1223312792461479e2	1.3919620686227556e10	4.7067057740877348e-2	1.2380058492265398e-2	3.2672560238900945e28	21	rejected_infinity

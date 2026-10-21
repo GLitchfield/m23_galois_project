@@ -1,0 +1,37 @@
+# schema	m23-koenig-a-relation-supported-free-quotient-v1
+# code_revision	3f0aa32bd6c8ebf924fbf29a7c76d747ef884369
+# sage_version	10.9
+# prime	19
+# transient_annihilator_exponent	3
+# minimum_stage_digits	4
+# maximum_stage_digits	13
+# minimum_effective_digits	1
+# maximum_effective_digits	10
+# quotient_dimension	7
+# selected_numerator_columns	7566
+# chart_columns	7559
+# chart_entries	52913
+# pivot_columns	1,2,3,4,5,6,7
+# chart_arrays_sha256	04edeb6787ae9f48f0acd7055197a18d79a8754b08f2cccdeb6f3175e559bd80
+# coherent_transition_count	9
+# total_transition_mismatches	0
+# stable_all_effective_digits_entries	14112
+# stable_last_four_effective_digits_entries	14117
+# final_reconstructed_entries	36396
+# final_failed_entries	16517
+# maximum_reconstructed_numerator	1750748
+# maximum_reconstructed_denominator	1750863
+# stage_summary_sha256	7e875dc336274e79e0b5d8e435cade2123db3c40bc4cbc4a19739244c8935c25
+# stage_archive_sha256	c2bfc3fb914700a4b7e3d568941ca0720c9a38253fc55aeda41e086549c50aed
+# status	coherent_free_quotient_incomplete_reconstruction
+stage_digits	effective_digits	modulus	mismatches_from_previous	reconstructed_entries	failed_entries	stable_from_previous
+4	1	19	-1	44803	8110	-1
+5	2	361	0	38892	14021	15684
+6	3	6859	0	36154	16759	15398
+7	4	130321	0	36569	16344	15272
+8	5	2476099	0	36507	16406	15280
+9	6	47045881	0	36467	16446	15285
+10	7	893871739	0	36524	16389	15287
+11	8	16983563041	0	36667	16246	15237
+12	9	322687697779	0	36627	16286	15260
+13	10	6131066257801	0	36396	16517	15284

@@ -1,0 +1,22 @@
+# format	m23_8a_coefficient_field_v1
+# code_revision	b26586d9fb00fae377ef4768e2dcd7d902c0cb40
+# source	data/derived/m23_8a_belyi_class1_exact_candidate.json
+# source_sha256	d853c6fe9c9f89ebbfb73f3fad6205b7dc26e08ce54524f249c9abe2902ee475
+# sage_version	10.9
+# construction	fixed generator y=t+t^-1 under reciprocal involution
+# exact_polynomial_identity	t^14*g(t+t^-1)=f(t)
+# interpretation	exact arithmetic invariants of the Belyi coefficient field
+property	value
+coefficient_field_degree	28
+coefficient_field_signature	0,14
+coefficient_field_automorphism_count	2
+coefficient_field_discriminant	9443435486633371436352527793194532864
+coefficient_field_discriminant_factorization	2^66*3^10*11^4*23^6
+reciprocal_involution	t->t^-1
+fixed_field_degree	14
+fixed_field_signature	2,6
+fixed_field_automorphism_count	1
+fixed_field_discriminant	768254331529986048
+fixed_field_discriminant_factorization	2^31*3^5*11^2*23^3
+discriminant_ratio_DK_over_DL_squared	16
+fixed_polynomial_low_to_high	768,-1344,-1308,4496,-1512,-5352,7292,-3360,-276,872,-248,-60,52,-12,1

@@ -1,0 +1,37 @@
+# format	m23_8a_reciprocal_descent_v2
+# code_revision	ad7e2bbedad6408b61d20f4b56fa49fc18c25f83
+# candidate	data/derived/m23_8a_belyi_class1_exact_candidate.json
+# candidate_sha256	d853c6fe9c9f89ebbfb73f3fad6205b7dc26e08ce54524f249c9abe2902ee475
+# monodromy	data/derived/m23_8a_belyi_class1_interval_monodromy.tsv
+# monodromy_sha256	10d06add4279303117c7c71c6108c11a4df14d44c5ff2c5007de9310e3c80327
+# class_ledger	data/derived/m23_8a_8a_2a_inner_classes.tsv
+# class_ledger_sha256	dc6089e7b9bcf9cb890e01306d286327266c0bf6ba7a7a8e48abb5ca52b3f3e8
+# sage_version	10.9
+# coefficient_involution	t->t^-1
+# target_mobius	z->1-z
+# interpretation	exact reciprocal color-swap descent and split degree-14 cover
+property	value
+source_class_id	1
+reciprocal_class_id	19
+ordered_belyi_equivalent	false
+color_swap_equivalent	true
+source_mobius_maps_multiplicities	1->1,4->4,2->2
+source_mobius_matrix_sha256	2badeb3022b0e3995bbdc2a2ef3ab3c38167d09f2134eec5e4c39cf27967ada6
+source_mobius_cocycle	true
+target_mobius_cocycle	true
+source_cocycle_scalar_is_relative_norm	true
+hilbert90_source_trivialization	true
+hilbert90_source_matrix_sha256	90d710d83f1b2b10516f9bb80c5ce5d8424417ebfb937f15add411c434264967
+target_twist_split	true
+swapped_group_order	10200960
+swapped_group_structure	M23
+swapped_group_centralizer_order	1
+swapped_class_conjugator	9,22,6,13,23,14,7,18,16,11,21,17,12,10,20,1,2,19,15,3,5,4,8
+ordered_descent_to_fixed_field	false
+color_swap_descent_datum	true
+source_twist_split	true
+descended_cover_degree	23
+descended_coefficient_field_degree	14
+descended_map_sha256	b79065595fbe8c355494b5dc9631d16fbeda6427265b98e998ee21c3eed935ae
+descended_finite_branch_polynomial	W^2-(y^2-4)/4
+descended_branch_points_individually_fixed	false

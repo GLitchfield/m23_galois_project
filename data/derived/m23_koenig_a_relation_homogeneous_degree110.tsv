@@ -1,0 +1,31 @@
+# schema	m23-koenig-a-homogeneous-degree110-v1
+# code_revision	b38c8ff4d7e9ecffb26d040ebf492b4b76a55f00
+# sage_version	10.9
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# profiles_sha256	032fa38ed91e71b76a60b031702f37da176e8834eef8df9849b01b0b4f51959a
+# family_certificate_sha256	1f9a294e7d5bdcc7f0089dd9a699949ba9e88795e34c1598063f2cffcee412f8
+# prime	19
+# digits	4
+# modulus	130321
+# status	homogeneous_degree110_genuine_relation_verified
+# series_precision	16384
+# training_terms	16000
+# holdout_terms	384
+# homogeneous_unknowns	15722
+# mod19_rank	15151
+# mod19_kernel_dimension	571
+# mod19_numerator_projection_rank	480
+# plane_multiple_control_dimension	91
+# nonpivot_training_rows	849
+# reduced_width	571
+# reduced_arrays_sha256	2e72b51c8b1543d246fde59fe066c21131245c3c985cdf12eaefd8f3b1b583df
+# witness_coefficients_sha256	db75ff6c2f44726a92a1e16cc1acf20a934a44df70370fa7ecaf3c53104d213b
+# fitting_nonzero_residuals	0
+# holdout_nonzero_residuals	0
+scope	digits	block_rows	block_columns	block_rank	tail_rank	projected_dimension	numerator_projection_rank
+training	2	849	571	0	0	571	480
+training	3	1698	1142	0	0	571	480
+training	4	2547	1713	3	0	568	477
+all	2	1233	571	0	0	571	480
+all	3	2466	1142	0	0	571	480
+all	4	3699	1713	3	0	568	477

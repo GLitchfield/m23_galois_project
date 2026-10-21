@@ -1,0 +1,10 @@
+Number of transitive groups of degree 23: 7
+23T1 size=23 primitive=true solvable=true simple=true transitivity=1
+23T2 size=46 primitive=true solvable=true simple=false transitivity=1
+23T3 size=253 primitive=true solvable=true simple=false transitivity=1
+23T4 size=506 primitive=true solvable=true simple=false transitivity=2
+23T5 size=10200960 primitive=true solvable=false simple=true transitivity=4
+23T6 size=12926008369442488320000
+  primitive=true solvable=false simple=true transitivity=21
+23T7 size=25852016738884976640000
+  primitive=true solvable=false simple=false transitivity=23

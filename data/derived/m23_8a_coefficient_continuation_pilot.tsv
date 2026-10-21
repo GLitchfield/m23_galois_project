@@ -1,0 +1,19 @@
+# experiment=test-0072
+# generated=2026-07-21
+# code_revision=43da20118c4f76b12337b6068fb048f59c164103
+# seed_command=PYTHONPATH=/tmp/m23_8a_python_deps python3 scripts/pilot_8a_belyi_circle_pack.py --refinements 2 --seed-dir /tmp/m23_8a_full_charts --seed-only
+# seed=/tmp/m23_8a_full_charts/seed_4_2_1.tsv
+# seed_sha256=c724b9cf64d18b4015193638183252919c9941f616479e5d8bc2c46503d52027
+# input=data/derived/m23_8a_8a_2a_inner_classes.tsv
+# input_sha256=dc6089e7b9bcf9cb890e01306d286327266c0bf6ba7a7a8e48abb5ca52b3f3e8
+# julia=1.12.6
+# HomotopyContinuation=2.21.0
+# command_template=julia --project=julia/8a_belyi julia/8a_belyi/run_full_continuation.jl SEED 1 4,2,1 0 GAMMA REGULARIZATION MODE ENDPOINT_PREFIX
+# acceptance=return_code=success; interval_certified; division_residual<1e-10; all chordal separations>1e-8; alpha and projective homogenizer nonzero
+mode	gamma_angle	regularization	return_code	t	path_residual	division_residual	alpha_abs	inverse_alpha_abs	homogenizer_abs	minimum_chordal_separation	endpoint_condition	rank_1e12	verdict
+projective	0	1e-4	terminated_max_steps	6.0708588197867461e-37	1.1188630228279524e-16	2.9893781734860835e-16	4.632946290364713e-3	NA	6.9258873308997038e-1	1.0189866904783925e-2	9.2093851885825736e29	8	rejected_alpha_boundary
+affine_alpha	0	1e-4	terminated_max_steps	4.6999321791232825e-38	2.2204460492503131e-16	3.1685538069247801e-16	1.5968991090337982e-3	6.262136376324044e2	1	1.5149609957992808e-2	1.2125930834484519e33	8	rejected_inverse_escape
+projective_alpha	0	1e-4	terminated_max_steps	8.7577517916635562e-33	1.1102230246251565e-16	6.7540617111277251e-13	4.4446571698660696e-2	2.2498923129095534e1	3.0961060642590105e-2	2.8433572552378654e-2	6.7045008765633944e29	9	rejected_projective_boundary
+projective_alpha	2.1	1e-4	terminated_max_steps	5.549906702626636e-30	6.9524332219599542e-18	5.7779388334220914e-10	3.1117602332181676e-1	3.2136152050693325	1.868854272380524e-1	1.2083457679944366e-5	1.5064963637392203e27	9	rejected_pf_collision
+projective_alpha	1.4	1e-4	terminated_max_steps	3.8032560496226281e-22	1.5700924586636444e-16	3.7335009432481578e-5	4.450246836907111	2.2470663687836984e-1	8.2811007449636365e-1	2.2232832755093419e-2	2.097192308025888e22	10	rejected_incomplete
+projective_alpha	0	1e-2	terminated_max_steps	1.7719423521425311e-19	1.000741405606181e-16	2.583886599885593e-6	9.02700644742211	1.1077869566444977e-1	6.2259835481662618e-1	8.1330549266784603e-3	1.240334428617727e21	11	rejected_incomplete

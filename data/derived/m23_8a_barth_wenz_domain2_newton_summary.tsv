@@ -1,0 +1,15 @@
+# format	m23_8a_barth_wenz_newton_summary_v1
+# code_revision	5d1c202abc745f922283d9bd6aa85ba999babfa6
+# seed	data/derived/m23_8a_barth_wenz_domain2_root_seed.tsv
+# seed_sha256	4d217bdf23e18b4913439aca7c59a2a3c5ef42913b92f1f79d94d25930f92809
+# python_version	3.12.3
+# numpy_version	2.4.3
+# normalization	1,4,2
+# maximum_iterations	100
+# relative_residual_gate_max	1e-10
+# root_separation_gate_min	1e-08
+# alpha_abs_gate_min	1e-08
+# jacobian_condition_gate_max	10000000000000000
+# interpretation	bounded numerical refinement; not exact recognition
+verdict	accepted_steps	initial_relative_residual	final_relative_residual	final_absolute_residual_2norm	final_equilibrated_jacobian_condition	final_p_chordal_separation	final_f_chordal_separation	final_q_chordal_separation	final_pf_chordal_separation	final_pq_chordal_separation	final_fq_chordal_separation	final_minimum_chordal_separation	final_alpha_abs	final_maximum_root_abs
+rejected	100	0.15921840370670476	3.5376861179518165e-09	1.1249045713442865e-06	178778370890826.75	0.045511032693959626	0.056736828874540381	0.010061011339666049	0.00080181847052793859	0.00080181847061590805	9.6019958692052096e-14	9.6019958692052096e-14	5.232920598963319	1.4773806675437846

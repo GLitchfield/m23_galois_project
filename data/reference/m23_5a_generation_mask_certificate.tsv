@@ -1,0 +1,23 @@
+# generated_by	scripts/gap/certify_5a_generation_masks.g
+# gap_version	4.12.1
+# group	MathieuGroup(23)
+# group_order	10200960
+# target_class	5A
+# target_class_size	680064
+# source_checkpoint_sha256	1d6653fedb4327ed4594a1ca55cad03b82fbcae5a45817dbadeede05902468ea
+# mask_bits	14
+# criterion	a fixed-first tuple generates M23 iff its coordinate masks have zero common incidence bit
+maximal_class	subgroup_order	conjugacy_class_size	order5_elements	predicted_target_incidence	enumerated_target_incidence	first_bit	last_bit
+1	443520	23	88704	3	3	1	3
+2	40320	253	8064	3	3	4	6
+3	40320	253	8064	3	3	7	9
+4	20160	506	1344	1	1	10	10
+5	7920	1288	1584	3	3	11	13
+6	5760	1771	384	1	1	14	14
+7	253	40320	0	0	0	0	0
+# validation_product_classes	16
+# validation_tuples	3089
+# validation_distinct_masks	54
+# validation_direct_generating	1626
+# validation_mask_generating	1626
+# validation_disagreements	0

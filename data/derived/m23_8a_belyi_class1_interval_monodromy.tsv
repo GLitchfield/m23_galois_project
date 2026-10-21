@@ -1,0 +1,24 @@
+# format	m23_8a_interval_monodromy_v1
+# code_revision	c6f8b93cc9ba83246c59226330288fb184477305
+# candidate	data/derived/m23_8a_belyi_class1_exact_candidate.json
+# candidate_sha256	d853c6fe9c9f89ebbfb73f3fad6205b7dc26e08ce54524f249c9abe2902ee475
+# recovery	data/derived/m23_8a_belyi_class1_number_field_recovery.tsv
+# recovery_sha256	c5e6431cd8d5efb7aa4a18bcc189283fe4c9c66628c0a5819de1c18fd2471417
+# embedding_source	data/derived/m23_8a_belyi_class1_high_precision_coefficients_16384.tsv
+# embedding_source_sha256	bc21c3efdc479a6af33182a61c0f12dc69ab014499f06cb9612d1212a6bb124a
+# precision_bits	512
+# steps_per_loop	8192
+# sage_version	10.9
+# basepoint	0.5
+# loops	counterclockwise circles of radius 0.5 around 0 and 1
+# parameter_enclosure	trig interval enclosure of each complete arc
+# root_model	affine predictor plus complex interval error box
+# proof_condition	strict self-map and contraction bound below one
+# all_segments_certified	true
+# segment_root_tubes_pairwise_disjoint	true
+# adjacent_endpoint_matching_bijective	true
+# interpretation	trig-and-coefficient interval certificate for exact cover monodromy
+loop	images	cycle_lengths	segment_count	maximum_tube_diameter	maximum_contraction_bound
+zero	1,7,4,11,10,16,9,5,12,3,13,2,14,8,20,17,21,6,15,18,19,23,22	8,8,4,2,1	8192	0.0031208359214360826	0.54037416540086269
+one	8,12,4,3,1,5,2,6,7,18,10,19,11,13,9,14,17,23,22,15,16,20,21	8,8,4,2,1	8192	0.0031043748385854997	0.5380390826612711
+infinity	8,2,3,10,18,14,7,1,19,4,11,12,13,6,15,17,16,5,9,23,22,21,20	2,2,2,2,2,2,2,2,1,1,1,1,1,1,1			

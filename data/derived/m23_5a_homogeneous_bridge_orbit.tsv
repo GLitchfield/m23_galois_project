@@ -1,0 +1,5 @@
+# generated_by	scripts/gap/derive_homogeneous_bridge_orbit.g
+# gap_version	4.12.1
+# group_order	10200960
+class_order	bridge_class_count	bridge_translate_count	translated_pure_orbit_count	homogeneous_class_count	pure_braid_orbit_count	pure_braid_orbit_sizes	pure_braid_orbit_genera	symmetric_orbit_count	symmetric_orbit_sizes	symmetric_orbit_genera	beta12_cycle_shape	beta13_cycle_shape	beta14_cycle_shape	beta3_cycle_shape	eta23_cycle_shape	eta234_cycle_shape
+5	30400	30400	1	91200	3	30400,30400,30400	5626,5626,5626	1	91200	2071	1^108 2^1766 3^2946 4^4924 5^3158 6^4356 7^1214 11^536 15^70 23^72	1^108 2^1766 3^2946 4^4924 5^3158 6^4356 7^1214 11^536 15^70 23^72	1^108 2^1766 3^2946 4^4924 5^3158 6^4356 7^1214 11^536 15^70 23^72	2^54 3^164 4^883 5^1214 6^1391 7^914 8^2462 10^972 11^536 12^2178 14^150 15^70 23^72	2^45600	3^30400

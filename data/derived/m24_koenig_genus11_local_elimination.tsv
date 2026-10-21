@@ -1,0 +1,31 @@
+# schema	m23-m24-genus11-local-elimination-v1
+# code_revision	55700f421c6933aab58fa0c9e404e80d6c549031
+# sage_version	10.9
+# source	König dissertation Theorem 5.2 and Appendix 5.1.12
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# model_sha256	8fc3f13944653c89e0de309632f5f11aaccd18aaed41cbf794db036fd57d31a2
+# status	exact_singular_nonsquare_normalization_excluded
+resultant_degree	1216
+resultant_sha256	9254495767e5e3630e00b1e4bdba002c47a3682a27776d2810fa663fe2685f75
+resultant_factorization	1^64,1^210,2^4,4^4,34^1,442^2
+repeated_degree	732
+repeated_factorization	1^63,1^209,2^3,4^3,442^1
+singular_factor_degree	442
+singular_factor_sha256	5ada50c757ea28f65febe14f3eeee02f0a335b9dcc1bbc3c047bd669c76d90ac
+fx_first_nonzero_subresultant_index	1
+ft_first_nonzero_subresultant_index	1
+fx_witness_degree	1
+ft_witness_degree	1
+fx_witness_lead_sha256	783519480b4303b27d9bc29aa33ae756042191482944a1300360877c4dd1d7b6
+fx_witness_constant_sha256	73f8168857f24e50ed0a980949406338d579f0010264b95b4b5bfa850800610b
+ft_witness_lead_sha256	4ced1d1a69c9c6ab4bc3765afd9739886809ae42277793375b40b9bc0b52f573
+ft_witness_constant_sha256	ff807cc394008b8b83a7ea574b3048e819e6cbe3388e31bdbc368969d7292c5d
+witness_proportional_mod_singular_factor	true
+hensel_center_count	8
+hensel_factor_valuations	23,24,23,25,23,24,23,29
+hensel_derivative_valuations	0,0,0,0,0,0,0,0
+hensel_common_residue_modulus	8388608
+local_t_mod_2^64	789384892621102101
+local_x_mod_2^64	17587692204416159151
+local_hessian_discriminant	8,7,nonsquare
+minus6_status	exact_ordinary_double_point_no_Q2_branches

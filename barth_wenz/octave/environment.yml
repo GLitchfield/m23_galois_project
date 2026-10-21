@@ -1,0 +1,4 @@
+channels:
+  - conda-forge
+dependencies:
+  - octave=10.3.0

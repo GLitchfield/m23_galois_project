@@ -1,0 +1,16 @@
+# format	m23_8a_fixed_field_frobenius_v1
+# code_revision	f3c033b7b7fa2719f55434daf0ead4cc89c03cf1
+# source	data/derived/m23_8a_class1_degree14_descended_cover.json
+# source_sha256	8fca6e9672f8e02b7bac02074ce62f6eb4451327bf7b2541050024fce068653b
+# sage_version	10.9
+# method	exact factorization of a monic irreducible polynomial at unramified primes
+# theorem	Dedekind-Frobenius cycle type from squarefree modular factorization
+# interpretation	independent cycle-type constraints on the degree-14 arithmetic Galois group
+# polynomial_low_to_high	768,-1344,-1308,4496,-1512,-5352,7292,-3360,-276,872,-248,-60,52,-12,1
+# polynomial_irreducible_over_Q	true
+# polynomial_discriminant	1136318978052477567951657541049247395217408
+# polynomial_discriminant_factorization	2^71*3^17*11^2*23^3*37^2*43^2
+prime	discriminant_mod_prime	squarefree	factor_degrees	frobenius_cycle_shape
+7	6	true	14	14
+127	74	true	13,1	13,1
+53	48	true	11,2,1	11,2,1

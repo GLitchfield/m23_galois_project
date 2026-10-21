@@ -1,0 +1,5 @@
+# generated_by	scripts/gap/reproduce_8A_small_orbits.g
+# gap_version	4.12.1
+# group_order	10200960
+base_class_vector	product_one_fixed_first_tuples	product_one_inner_classes	generating_inner_nielsen_classes	derived_class_vector	pure_orbit_count	pure_orbit_size	pure_genus	symmetric_orbit_count	symmetric_orbit_size	symmetric_genus	full_hurwitz_orbit_count	full_hurwitz_orbit_size	full_hurwitz_image_order
+8A,8A,2A	491	64	28	8A,8A,8A,8A	84	2	0	28	6	0	14	12	96

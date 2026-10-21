@@ -1,0 +1,33 @@
+# source	notes/hafner_2022_source/hafner_2022_braid_orbits_m23.tex
+# table_label	tab:Data_BraidOrbitsOfM23
+# status	reported_not_reproduced
+class_vector	action	orbit_size	multiplicity	genus	provisional
+4A,4A,2A,2A	B4	2456	1	447	false
+4A,4A,2A,2A	symmetric	2456	1	169	false
+5A,5A,2A,2A	B4	30400	1	5223	false
+5A,5A,2A,2A	symmetric	30400	1	2071	false
+6A,6A,2A,2A	B4	72528	1	15125	false
+6A,6A,2A,2A	symmetric	72528	1	6065	false
+8A,8A,2A,2A	B4	198488	1	41277	false
+8A,8A,2A,2A	symmetric	198488	1	16617	false
+3A,3A,3A,2A	B4	996	1	193	false
+3A,3A,3A,2A	symmetric	996	1	33	false
+4A,4A,4A,2A	B4	768528	1	212497	false
+4A,4A,4A,2A	symmetric	768528	1	35217	false
+5A,5A,5A,2A	B4	8569480	1	2522100	false
+5A,5A,5A,2A	symmetric	8569480	1	419486	false
+3A,3A,3A,3A	B4	8316	1	2029	false
+3A,3A,3A,3A	B4	28980	1	7525	false
+3A,3A,3A,3A	symmetric	8316	1	325	false
+3A,3A,3A,3A	symmetric	28980	1	1206	false
+4A,4A,4A,4A	B4	2456	3	459	true
+4A,4A,4A,4A	symmetric	7368	1	169	true
+5A,5A,5A,5A	B4	30400	3	5626	true
+5A,5A,5A,5A	symmetric	91200	1	2071	true
+6A,6A,6A,6A	B4	72528	3	14380	true
+6A,6A,6A,6A	symmetric	217584	1	6065	true
+8A,8A,8A,8A	B4	2	84	0	true
+8A,8A,8A,8A	B4	198488	3	39505	true
+8A,8A,8A,8A	symmetric	6	28	0	true
+8A,8A,8A,8A	symmetric	595464	1	16617	true
+

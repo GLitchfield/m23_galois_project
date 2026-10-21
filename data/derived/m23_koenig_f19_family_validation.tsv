@@ -1,0 +1,11 @@
+# schema	m23-koenig-f19-family-validation-v1
+# family	m23_koenig_f19_family.tsv
+# family_sha256	72d349286bffd45526bc5b0be18477ecf1df162f8aa0eff22f9ec040671e557b
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# verifier_revision	db1227be08ae3b994e9c9a79e33d6d2dd360461a
+# sage_version	10.9
+validated_precision	32768
+unseen_tail_terms	16384
+target_count	15
+common_denominator_valuation	2
+relation_residuals	0

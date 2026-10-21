@@ -1,0 +1,7 @@
+# source	notes/hafner_2022_source/hafner_2022_braid_orbits_m23.tex
+# theorem_label	M23AsGaloisGroupOverQSqrt
+# status	reported_not_reproduced
+class_vector	inner_nielsen_count	braid_orbit_count	symmetric_genus	constant_field
+14A,2A,2A,2A	84	1	0	Q(sqrt(-7))
+15A,2A,2A,2A	90	1	0	Q(sqrt(-15))
+

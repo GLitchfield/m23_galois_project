@@ -1,0 +1,14 @@
+# schema	m23-koenig-f19-newton-summary-v1
+# code_revision	f594db70729704497b4f250092ff73c53a4383fc
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# sage_version	10.9
+precision	4096
+series_count	47
+series_sha256	456edbd96ee27eb5c99fdb2d5919d278fabfc3a1b96948900317daca2ea23802
+parameter	s=lambda-9
+universal_identity_residual	0
+plane_relation_residual	0
+alpha_first_16	7,0,11,8,4,13,18,15,5,12,16,3,13,5,0,7
+alpha_last_16	12,18,9,18,5,11,11,14,18,10,12,1,15,7,3,7
+beta_first_16	14,0,1,9,11,12,17,10,9,14,5,7,5,11,18,8
+beta_last_16	6,8,3,15,9,14,6,0,18,5,11,16,12,4,12,5

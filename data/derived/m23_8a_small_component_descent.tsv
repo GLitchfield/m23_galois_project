@@ -1,0 +1,40 @@
+# generated_by	scripts/gap/reproduce_8A_small_orbits.g
+# gap_version	4.12.1
+# atlasrep_version	2.1.8
+# ctbllib_version	1.3.7
+# group_construction	MathieuGroup(23)
+# group_order	10200960
+# class_vector	8A,8A,8A,8A
+# input_construction	28 generating inner classes in (8A,8A,2A)
+# rational_power_exponents_mod_8	1,3,5,7
+# rational_power_test	true
+# component_id_convention	lexicographic full-H4 and symmetric-orbit indices
+full_component_id	complex_conjugate_full_component_id	complex_conjugation_fixed	symmetric_half_id	complex_conjugate_symmetric_half_id	symmetric_half_complex_conjugation_fixed	symmetric_degree	symmetric_genus	symmetric_monodromy_order
+1	12	false	1	20	false	6	0	24
+2	11	false	2	14	false	6	0	24
+1	12	false	3	18	false	6	0	24
+3	3	true	4	10	false	6	0	24
+4	13	false	5	22	false	6	0	24
+5	9	false	6	15	false	6	0	24
+6	6	true	7	24	false	6	0	24
+7	10	false	8	26	false	6	0	24
+8	14	false	9	27	false	6	0	24
+3	3	true	10	4	false	6	0	24
+9	5	false	11	17	false	6	0	24
+2	11	false	12	25	false	6	0	24
+10	7	false	13	28	false	6	0	24
+11	2	false	14	2	false	6	0	24
+9	5	false	15	6	false	6	0	24
+8	14	false	16	23	false	6	0	24
+5	9	false	17	11	false	6	0	24
+12	1	false	18	3	false	6	0	24
+13	4	false	19	21	false	6	0	24
+12	1	false	20	1	false	6	0	24
+4	13	false	21	19	false	6	0	24
+13	4	false	22	5	false	6	0	24
+14	8	false	23	16	false	6	0	24
+6	6	true	24	7	false	6	0	24
+11	2	false	25	12	false	6	0	24
+10	7	false	26	8	false	6	0	24
+14	8	false	27	9	false	6	0	24
+7	10	false	28	13	false	6	0	24

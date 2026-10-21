@@ -1,0 +1,31 @@
+# generated_by	scripts/gap/generate_hafner_class_vectors.g
+# gap_version	4.12.1
+# character_table	M23
+class_vector	published_inner_nielsen_count	computed_normalized_constant	published_normalized_floor	source
+2A,2A,2A	0	7/192	0	Hafner 2022 tab:Data_4DimClassvectorsM23
+3A,3A,2A	0	1	1	Hafner 2022 tab:Data_4DimClassvectorsM23
+4A,4A,2A	0	263/32	8	Hafner 2022 tab:Data_4DimClassvectorsM23
+5A,5A,2A	0	121/3	40	Hafner 2022 tab:Data_4DimClassvectorsM23
+6A,6A,2A	0	205/6	34	Hafner 2022 tab:Data_4DimClassvectorsM23
+8A,8A,2A	28	491/8	61	Hafner 2022 tab:Data_4DimClassvectorsM23
+2A,2A,2A,2A	0	51479/2688	19	Hafner 2022 tab:Data_4DimClassvectorsM23
+3A,2A,2A,2A	0	225/2	112	Hafner 2022 tab:Data_4DimClassvectorsM23
+4A,2A,2A,2A	0	3027/8	378	Hafner 2022 tab:Data_4DimClassvectorsM23
+5A,2A,2A,2A	0	1975/3	658	Hafner 2022 tab:Data_4DimClassvectorsM23
+6A,2A,2A,2A	0	1095/2	547	Hafner 2022 tab:Data_4DimClassvectorsM23
+8A,2A,2A,2A	0	664	664	Hafner 2022 tab:Data_4DimClassvectorsM23
+3A,3A,2A,2A	0	4423/4	1105	Hafner 2022 tab:Data_4DimClassvectorsM23
+4A,4A,2A,2A	2456	609553/32	19048	Hafner 2022 tab:Data_4DimClassvectorsM23
+5A,5A,2A,2A	30400	251719/3	83906	Hafner 2022 tab:Data_4DimClassvectorsM23
+6A,6A,2A,2A	72528	1221743/12	101811	Hafner 2022 tab:Data_4DimClassvectorsM23
+8A,8A,2A,2A	198488	1827193/8	228399	Hafner 2022 tab:Data_4DimClassvectorsM23
+3A,3A,3A,2A	996	49411/4	12352	Hafner 2022 tab:Data_4DimClassvectorsM23
+4A,4A,4A,2A	768528	10390847/8	1298855	Hafner 2022 tab:Data_4DimClassvectorsM23
+5A,5A,5A,2A	8569480	37781488/3	12593829	Hafner 2022 tab:Data_4DimClassvectorsM23
+6A,6A,6A,2A	21846222	268779383/12	22398281	Hafner 2022 tab:Data_4DimClassvectorsM23
+8A,8A,8A,2A	74725280	75791456	75791456	Hafner 2022 tab:Data_4DimClassvectorsM23
+3A,3A,3A,3A	37296	2335669/15	155711	Hafner 2022 tab:Data_4DimClassvectorsM23
+4A,4A,4A,4A	85607040	102663428	102663428	Hafner 2022 tab:Data_4DimClassvectorsM23
+5A,5A,5A,5A	1811840784	31861249598/15	2124083306	Hafner 2022 tab:Data_4DimClassvectorsM23
+6A,6A,6A,6A	5004867456	5020189817	5020189817	Hafner 2022 tab:Data_4DimClassvectorsM23
+8A,8A,8A,8A	25382467456	25432112544	25432112544	Hafner 2022 tab:Data_4DimClassvectorsM23

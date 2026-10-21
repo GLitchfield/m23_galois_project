@@ -1,0 +1,44 @@
+# schema	m23-koenig-f19-passport-point-v1
+# code_revision	b55af2a83686412dfb7255d6594b55d39cc8e6d2
+# family	m23_koenig_f19_family.tsv
+# family_sha256	72d349286bffd45526bc5b0be18477ecf1df162f8aa0eff22f9ec040671e557b
+# global_certificate	m23_koenig_f19_global_certificate.tsv
+# global_certificate_sha256	bc9f90c4d058b10326eed9adadadea46900c2ac0b14fcd4acd6d88f951754bb4
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# sage_version	10.9
+# field	GF(19)
+# coordinates	u=alpha-7,v=beta-14
+point_u	2
+point_v	11
+point_alpha	9
+point_beta	6
+common_denominator	6
+branch_parameter_a	1
+branch_square_root_lambda	1
+cover_constant_C	12
+factor_f1_low_to_high	8,4,6,18,15,6,1
+factor_f2_low_to_high	15,18,17,0,9,1
+factor_g1_low_to_high	11,6,13,1
+factor_g2_low_to_high	9,11,9,1
+separability_resultant_f1	2
+separability_resultant_f2	16
+separability_resultant_g1	3
+separability_resultant_g2	12
+pair_resultant_f1_f2	3
+pair_resultant_f1_g1	16
+pair_resultant_f1_g2	4
+pair_resultant_f2_g1	2
+pair_resultant_f2_g2	15
+pair_resultant_g1_g2	14
+residual_degree	16
+residual_separability_resultant	1
+residual_split_at_4	8
+residual_split_at_6	8
+fiber_0_partition	3^6.1^5
+fiber_4_partition	2^8.1^7
+fiber_6_partition	2^8.1^7
+fiber_infinity_partition	5^4.1^3
+cover_degree	23
+riemann_hurwitz_excess	44
+derivative_factorization	1
+global_critical_value_identity	1

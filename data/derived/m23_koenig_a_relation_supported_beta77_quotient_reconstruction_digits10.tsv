@@ -1,0 +1,31 @@
+# schema	m23-koenig-a-relation-supported-quotient-reconstruction-v1
+# code_revision	b27102d771a7f566cc93423f222e8f5f7e0e04fb
+# sage_version	10.9
+# prime	19
+# digits	10
+# modulus	6131066257801
+# beta_degree_cutoff	77
+# selected_numerator_columns	7566
+# quotient_dimension	7
+# chart_rows	7
+# chart_columns	7559
+# chart_entries	52913
+# pivot_columns	1,2,3,4,5,6,7
+# chart_arrays_sha256	bec426680a56e384626b488079fa3905f7d0f80c980085299e9d2b0860e61034
+# coherent_transition_count	0
+# support_summary_sha256	f756fd9d418192ec1bb80c0f342d0b3d359123428c388baf5263606b682c4784
+# support_representatives_sha256	07a5b07681eafca6061f7bfde3906a06666b27a5d9333f2edc6d842c6e4ab50a
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# stable_all_digits_entries	14112
+# final_failed_entries	16424
+# maximum_reconstructed_numerator	1750711
+# maximum_reconstructed_denominator	1750857
+# status	incoherent_supported_quotient_chart
+digits	modulus	mismatches_from_previous	reconstructed_entries	failed_entries	stable_from_previous
+4	130321	-1	36412	16501	-1
+5	2476099	38797	36592	16321	14112
+6	47045881	38789	36635	16278	14113
+7	893871739	38796	36573	16340	14112
+8	16983563041	38795	36591	16322	14112
+9	322687697779	38791	36398	16515	14112
+10	6131066257801	38796	36489	16424	14112

@@ -1,0 +1,27 @@
+Size: 10200960
+Transitivity degree on natural action: 4
+Is simple: true
+Conjugacy classes: 17
+Class sizes and element orders:
+1 order 1 cycle [  ]
+3795 order 2 cycle [ 8 ]
+318780 order 4 cycle [ 2,, 4 ]
+1275120 order 8 cycle [ 1,, 1,,,, 2 ]
+927360 order 11 cycle [ ,,,,,,,,, 2 ]
+927360 order 11 cycle [ ,,,,,,,,, 2 ]
+56672 order 3 cycle [ , 6 ]
+680064 order 5 cycle [ ,,, 4 ]
+680064 order 15 cycle [ , 1,, 1,,,,,,,,,, 1 ]
+680064 order 15 cycle [ , 1,, 1,,,,,,,,,, 1 ]
+850080 order 6 cycle [ 2, 2,,, 2 ]
+728640 order 7 cycle [ ,,,,, 3 ]
+728640 order 7 cycle [ ,,,,, 3 ]
+728640 order 14 cycle [ 1,,,,, 1,,,,,,, 1 ]
+728640 order 14 cycle [ 1,,,,, 1,,,,,,, 1 ]
+443520 order 23 cycle [ ,,,,,,,,,,,,,,,,,,,,, 1 ]
+443520 order 23 cycle [ ,,,,,,,,,,,,,,,,,,,,, 1 ]
+
+Character table identifier: M23
+Class names: [ "1a", "2a", "3a", "4a", "5a", "6a", "7a", "7b", "8a", "11a", 
+  "11b", "14a", "14b", "15a", "15b", "23a", "23b" ]
+Orders: [ 1, 2, 3, 4, 5, 6, 7, 7, 8, 11, 11, 14, 14, 15, 15, 23, 23 ]

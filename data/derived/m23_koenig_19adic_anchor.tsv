@@ -1,0 +1,12 @@
+# schema	m23-koenig-19adic-anchor-v1
+# code_revision	ea1a56f0ba64fe40828108fec53443973b063e2a
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# sage_version	10.9
+# prime	19
+# digits	32
+# modulus	83198449060887472631428936505541918917761
+# branch_label	lambda=9
+# jacobian_determinant_mod19	2
+# values_sha256	43fb0eb2512560d1f2fa8cf710562a2ec986d6faa7efdf9990ecd2316b69474b
+alpha_residue	beta_residue	cover_equations_zero	plane_relation_zero
+29152661597408277998585862711722785949191	21551302175955244374792758454416578303825	true	true

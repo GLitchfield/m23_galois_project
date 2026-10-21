@@ -1,0 +1,11 @@
+# source	notes/hafner_2022_source/hafner_2022_braid_orbits_m23.tex
+# table_label	tab:CurrentStateOfComputations
+# status	reported_not_reproduced
+class_vector	orbit_limit	covered_tuple_count	orbit_summary
+4A,4A,4A,4A	2500	7368	3x2456
+5A,5A,5A,5A	250	0	none
+6A,6A,6A,2A	4	0	none
+6A,6A,6A,6A	2	0	none
+8A,8A,8A,2A	4	0	none
+8A,8A,8A,8A	2	168	84x2
+

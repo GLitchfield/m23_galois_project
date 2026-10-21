@@ -1,0 +1,13 @@
+# schema	m23-koenig-19adic-family-v1
+# code_revision	e55eea3e1ac7029766304c54ddf590bf8d24fd2f
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# sage_version	10.9
+# prime	19
+# digits	32
+# modulus	83198449060887472631428936505541918917761
+# series_precision	64
+# parameter	lambda=9+s
+# jacobian_determinant_mod19	2
+# values_sha256	8114415ba1d651040aa6da4e18c2e6b60e88ea16025db4afbf4c7c45eb9f73d5
+alpha_constant	beta_constant	alpha_linear	beta_linear	cover_equations_zero	plane_relation_zero	mod19_family_compatible
+29152661597408277998585862711722785949191	21551302175955244374792758454416578303825	62563538589129507013196312376837997379247	12226556631670014759963746408882981574505	true	true	true

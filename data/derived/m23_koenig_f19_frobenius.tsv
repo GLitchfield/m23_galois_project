@@ -1,0 +1,25 @@
+# schema	m23-koenig-f19-frobenius-census-v1
+# code_revision	e0c872961ebfe260e20f1728efbff9d3717d9627
+# sage_version	10.9
+# field	GF(19)
+# cover	König dissertation Chapter 5.3 page 73
+# polynomial	f1^3*f2-t*g1^5*g2
+# ramified_finite_values	0,9,11
+# m23_class_atlas_sha256	e1f7762d5cac6d7e68d9d921ee0ae422a904c76d1f26d0d8d12c1752b055d25a
+t	cycle_shape	fixed_5_subsets	fixed_6_subsets	fixed_7_subsets	fixed_8_subsets	fixed_9_subsets	fixed_10_subsets	fixed_11_subsets
+1	2^1 7^1 14^1	0	0	1	0	1	0	0
+2	1^1 11^2	0	0	0	0	0	0	2
+3	1^3 5^4	4	12	12	4	0	6	18
+4	1^2 7^3	0	0	3	6	3	0	0
+5	1^1 11^2	0	0	0	0	0	0	2
+6	2^1 7^1 14^1	0	0	1	0	1	0	0
+7	2^1 7^1 14^1	0	0	1	0	1	0	0
+8	1^2 7^3	0	0	3	6	3	0	0
+10	1^1 11^2	0	0	0	0	0	0	2
+12	2^1 7^1 14^1	0	0	1	0	1	0	0
+13	1^1 2^1 4^1 8^2	1	1	1	2	2	2	2
+14	3^1 5^1 15^1	1	0	0	1	0	0	0
+15	3^1 5^1 15^1	1	0	0	1	0	0	0
+16	2^1 7^1 14^1	0	0	1	0	1	0	0
+17	1^2 7^3	0	0	3	6	3	0	0
+18	1^1 2^1 4^1 8^2	1	1	1	2	2	2	2

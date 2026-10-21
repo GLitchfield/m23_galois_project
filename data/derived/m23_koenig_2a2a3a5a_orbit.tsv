@@ -1,0 +1,9 @@
+# generated_by	scripts/gap/reproduce_koenig_2A_2A_3A_5A.g
+# code_revision	e0c872961ebfe260e20f1728efbff9d3717d9627
+# gap_version	4.12.1
+# atlasrep_version	2.1.8
+# ctbllib_version	1.3.7
+# transgrp_version	3.6.5
+# group_order	10200960
+class_vector	product_one_fixed_first_tuples	product_one_inner_classes	generating_inner_nielsen_classes	pure_braid_orbit_count	pure_braid_orbit_sizes	pure_genus	symmetric_orbit_count	symmetric_orbit_size	symmetric_genus	beta12_cycle_shape	beta13_cycle_shape	beta14_cycle_shape	beta4_cycle_shape	eta34_cycle_shape
+3A,5A,2A,2A	1526400	8490	980	1	980	119	1	980	43	1^24 2^136 3^178 5^30	1^2 2^21 3^16 4^41 5^46 7^38 8^12 11^12	1^2 2^21 3^16 4^41 5^46 7^38 8^12 11^12	2^12 3^38 4^68 5^30 6^70	2^490

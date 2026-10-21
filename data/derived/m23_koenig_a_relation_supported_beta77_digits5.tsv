@@ -1,0 +1,33 @@
+# schema	m23-koenig-a-relation-supported-subspace-v1
+# code_revision	8b3934ecd493f15674bc5006dace0e573103f129
+# sage_version	10.9
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# profiles_sha256	032fa38ed91e71b76a60b031702f37da176e8834eef8df9849b01b0b4f51959a
+# family_certificate_sha256	1f9a294e7d5bdcc7f0089dd9a699949ba9e88795e34c1598063f2cffcee412f8
+# filtration_sha256	adbc31cb79b7100bc6212ddf30207e6b1541b11ad7b1c4af66f81c982ac00292
+# prime	19
+# digits	5
+# modulus	2476099
+# beta_degree_cutoff	77
+# selected_numerator_columns	7566
+# complementary_numerator_columns	1940
+# mod19_support_constraint_rank	470
+# initial_ambient_quotient_dimension	10
+# target_base_digits	4
+# target_quotient_dimension	7
+# final_quotient_dimension	7
+# first_changed_digit	0
+# reduced_support_inputs_sha256	eb1dbe5b8077529bf79635fdf5cc1f9cba7951e5b79923100222215d3ebc6b2b
+# final_representatives_arrays_sha256	0c00961ea15c5c72b163b01e4f1dd95c7f48c3128984c1375d857ae936e4c9d7
+# status	beta_degree_block_persists
+scope	digits	obstruction_rank	projected_dimension	numerator_projection_rank	plane_control_dimension
+training	1	0	101	10	91
+training	2	0	101	10	91
+training	3	0	101	10	91
+training	4	3	98	7	91
+training	5	3	95	7	88
+all	1	0	101	10	91
+all	2	0	101	10	91
+all	3	0	101	10	91
+all	4	3	98	7	91
+all	5	3	95	7	88

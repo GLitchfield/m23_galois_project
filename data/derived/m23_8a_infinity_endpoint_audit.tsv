@@ -1,0 +1,13 @@
+# generated_by	scripts/analyze_8a_infinity_endpoints.py
+# code_revision	4fbacc4e178d5072c890bae0a8f9aa329fc6598f
+# python_version	3.12.3
+# projectivization	all 28 saturated affine coordinates divided by their maximum absolute value
+# support_threshold	coordinates at least 0.01 of the maximum absolute value
+# interpretation	descriptive escape-direction audit; not a compactification proof or finite solution
+gamma_angle	regularization	endpoint_sha256	dominant_coordinate	escape_type	root_maximum_abs	inverse_maximum_abs	inverse_to_root_ratio	alpha_projective_abs	inverse_q_projective_abs	projective_support_1pct
+0	0.0001	1d6af42cf56b7bdd8da92266fc6b58854d24f44dd7d4806b0adf33cf812bf739	inverse_q	inverse_q_dominated	54.116892484353713	6475339353.7978067	119654678.170406	4.8821339981900814e-12	1	inverse_q:1
+0.69999999999999996	0.0001	67b161736ad56ef3f4014a6b0c91a58b70b244a8f09f770058e985a6020c1d5e	alpha	mixed_alpha_inverse_q	949.57061615262467	750.94479524528379	0.79082564526679111	1	0.79082564526679111	alpha:1,inverse_q:0.790826,ur2:0.342422,cr4:0.0844208,inverse_pf:0.0530497,inverse_p:0.029638,vr7:0.0266996,cr2:0.0254389,ur3:0.0246278,vr1:0.0245926,ur6:0.0219274,ar2:0.0186297,vr2:0.0157153,ur7:0.0149695
+1.3999999999999999	0.0001	8ccbb8986a95a3b8de319227ce0c979e94db082a305486a40218ebce5e2e65d4	inverse_q	inverse_q_dominated	35.720428279982791	225360446.60869813	6309007.4072540402	2.8828542723376301e-08	1	inverse_q:1
+2.1000000000000001	0.0001	962a77ff8edee16366a6e0ae20ffd381e55e16e9c206427a6bdc483874349826	inverse_q	inverse_q_dominated	242.89351587135113	473041237.50460017	1947525.1770621457	5.1347218088780067e-07	1	inverse_q:1
+0	0.01	18e281c9b7d07614511cfa9d429ca58fe23bde3d2f61ee944c9879f8a8eacf15	inverse_q	inverse_q_dominated	766.14147299112824	17967928.815235149	23452.494674496251	4.2639387147477498e-05	1	inverse_q:1
+0	1	af6b043d4f2216e1d555aaae901c6ad9e553fbab9f7934be375fc3358a2650ef	inverse_q	inverse_q_dominated	512.43586927049205	13770548439.687696	26872725.477417424	3.3944332385569995e-12	1	inverse_q:1

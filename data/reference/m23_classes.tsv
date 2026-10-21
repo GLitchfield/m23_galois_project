@@ -1,0 +1,22 @@
+# generated_by	scripts/gap/generate_m23_class_atlas.g
+# gap_version	4.12.1
+# character_table	M23
+# group_order	10200960
+class	order	size	centralizer_size	cycle_structure	inverse_class	rational
+1A	1	1	10200960	1^23	1A	true
+2A	2	3795	2688	1^7 2^8	2A	true
+3A	3	56672	180	1^5 3^6	3A	true
+4A	4	318780	32	1^3 2^2 4^4	4A	true
+5A	5	680064	15	1^3 5^4	5A	true
+6A	6	850080	12	1^1 2^2 3^2 6^2	6A	true
+7A	7	728640	14	1^2 7^3	7B	false
+7B	7	728640	14	1^2 7^3	7A	false
+8A	8	1275120	8	1^1 2^1 4^1 8^2	8A	true
+11A	11	927360	11	1^1 11^2	11B	false
+11B	11	927360	11	1^1 11^2	11A	false
+14A	14	728640	14	2^1 7^1 14^1	14B	false
+14B	14	728640	14	2^1 7^1 14^1	14A	false
+15A	15	680064	15	3^1 5^1 15^1	15B	false
+15B	15	680064	15	3^1 5^1 15^1	15A	false
+23A	23	443520	23	23^1	23B	false
+23B	23	443520	23	23^1	23A	false

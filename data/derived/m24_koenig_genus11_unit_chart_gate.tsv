@@ -1,0 +1,26 @@
+# schema	m23-m24-genus11-unit-chart-gate-v1
+# code_revision	5c6dae3f27038e92f28902c4dcac849e83299a57
+# sage_version	10.9
+# source	König dissertation Theorem 5.2 and Appendix 5.1.12
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# model_sha256	8fc3f13944653c89e0de309632f5f11aaccd18aaed41cbf794db036fd57d31a2
+# status	deep_unit_charts_unresolved
+minus6_levels	2,4,8,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16,16
+minus6_modulus	67108864
+minus6_terminal_count	16
+minus6_terminal_sha256	36762c40ab4f790ee097f73fc6a091adf2bfdc497306ba65ac177c7671dad528
+minus6_simple_count	0
+minus6_strong_hensel_count	0
+minus6_terminal_hessian_square_classes	8,7
+minus6_critical_probe_cluster_count	1
+minus6_critical_probe_min_value_v2	162
+minus6_critical_probe_min_gradient_v2	162
+minus6_critical_probe_discriminant	8,7,nonsquare
+minus6_critical_probe_status	bounded_200_bit_not_exact_singular_ideal_certificate
+minus2_levels	4,6,10,16,24,28,44,84,84,164,292,324,580
+minus2_modulus	16384
+minus2_terminal_count	580
+minus2_terminal_sha256	44b32a42fe1714cfeb76457fb275c6d0476327574f1c541778cf62e9cbfa0797
+minus2_simple_count	0
+minus2_strong_hensel_count	0
+minus2_false_square_candidate	897,335:dead_by_modulus_16384

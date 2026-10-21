@@ -1,0 +1,35 @@
+# schema	m23-m24-genus11-tropical-exhaustion-v1
+# code_revision	c1d41d8f65be7fab22abd76d1a78e885f30cb35d
+# sage_version	10.9
+# source	König dissertation Theorem 5.2 and Appendix 5.1.12
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# model_sha256	8fc3f13944653c89e0de309632f5f11aaccd18aaed41cbf794db036fd57d31a2
+# status	complete_Q2_normalization_obstruction
+newton_support_count	633
+newton_lower_facet_count	12
+newton_lower_support_count	21
+newton_curve_region_count	26
+newton_unbounded_region_count	11
+integer_candidate_rays	-4,-1:-2,-1;-4,1:-2,-1;-3,2:0,1;-2,-1:0,-1;-2,3:0,1;0,1:1,0
+integer_candidate_vertex	-2,0
+bounded_window	t:-40:-1,x:-40:12
+bounded_candidate_count	100
+bounded_dead_count	92
+bounded_resolved_minus6	Test0149:no_Q2_normalization_branch
+bounded_resolved_minus2	Test0150:all_4356_boxes_excluded
+negative_tail_face_certificates	-42,-20:-2,-1:23,5;-42,-18:-2,-1:22,7;-3,13:0,1:14,2;-2,-41:0,-1:43,8
+quarter_local_candidate_rays	d=-1,k>=7;d=2k-7,k>=7
+quarter_delta_minus1_face_margin_budget	6,1
+quarter_weighted_leading_valuations	22,8
+quarter_weighted_remainder_margin	6
+quarter_weighted_unit_sum_mod_8	2
+quarter_tail_status	no_Q2_point_for_v2_x_at_least_7
+integral_ray_finite_dead_levels	1,2,3,4,5,6,7,8
+center_0_-2_tangent_leading_valuations	32,29
+center_0_-2_tail_competing_margins	9,1
+center_0_-2_balance	v2(y)=v2(t)+3/2_impossible
+integral_tail_status	no_Q2_point_for_v2_t_at_least_8
+boundary_status	Test0147:all_coordinate_boundaries_excluded
+affine_nonzero_status	all_integer_valuation_pairs_excluded
+normalization_Q2_points	0
+koenig_genus11_Q_points	0_by_Q_embedding_into_Q2

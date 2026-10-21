@@ -1,0 +1,31 @@
+# schema	m23-koenig-a-degree110-digit4-v1
+# code_revision	4a69803d031787de2f52b3299b8b1d0112e4515d
+# sage_version	10.9
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# seed_summary_sha256	f40eaddc7c11ca25207c54b7f7a1ae239144db8e8ade5c1181406042f8d17c96
+# seed_coefficients_sha256	aaff41ba7d7cc96e65e2688e8cea19531f3825b2cefdd10b124bf7e532a5dc1c
+# family_certificate_sha256	1f9a294e7d5bdcc7f0089dd9a699949ba9e88795e34c1598063f2cffcee412f8
+# prime	19
+# seed_digits	3
+# target_digits	4
+# modulus	130321
+# status	degree110_digit4_rejected
+# series_precision	16384
+# training_terms	16000
+# holdout_terms	384
+# denominator_cutoff	110
+# normalized_unknowns	15721
+# normalization	P[0,1]=1
+# normalized_rank	15151
+# gauge_dimension	570
+# gauge_choice	nonpivot correction coordinates zero
+# pivot_rows_sha256	080e592840125caa810d994b85d95f055292ad17cb7c3563b3f974ee25221c28
+# pivot_columns_sha256	91a6a8e71cee980218e2727b326aa641639fb8048e7d1f802ef4e570e07ee1e5
+# profile_indices_sha256	408ca149c4012416183c6f765f29ff0dd3185103e69b1ab98ba5845c72bec55d
+# zero_coordinate_corrections	4077
+# nonzero_coordinate_corrections	10281
+# high_denominator_nonzero_corrections	378
+# final_nonzero_coefficients	15329
+# coefficients_sha256	74858561e3caada1a9b4fa6f590d0032ffdc3925fe9351aef67f123ebc3d7618
+fitting_nonzero_residuals	holdout_nonzero_residuals
+799	368

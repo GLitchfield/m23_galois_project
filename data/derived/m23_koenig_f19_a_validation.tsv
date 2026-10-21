@@ -1,0 +1,11 @@
+# schema	m23-koenig-f19-a-validation-v1
+# candidate	m23_koenig_f19_a_relation.tsv
+# candidate_sha256	700f5f8ac1a1581bf163f8397f10ce1dfc0eae285b2c323736f58947d2ab5ad6
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# verifier_revision	939066504cc90c3e298dd286f053685ea9a7a9b3
+# sage_version	10.9
+validated_precision	32768
+unseen_tail_terms	16384
+numerator_valuation	2
+denominator_valuation	2
+relation_residual	0

@@ -1,0 +1,31 @@
+# schema	m23-m24-genus11-model-two-adic-gate-v1
+# code_revision	c703d9007d5c8281b11e3c03dd674a8c435d823d
+# sage_version	10.9
+# source	König dissertation Theorem 5.2 and Appendix 5.1.12
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# model_member	Polynomials And Approximation Data/M24_(2,2,2,8)/m24_(2,2,2,8)_hurwitz_equation.txt
+# model_sha256	8fc3f13944653c89e0de309632f5f11aaccd18aaed41cbf794db036fd57d31a2
+# status	bounded_two_adic_affine_chart_gate_unresolved
+terms	633
+degree_t	32
+degree_x	24
+total_degree	44
+content	1
+model_mod2_values	0,0:0;0,1:1;1,0:0;1,1:1
+point_0_0	0,0,0
+point_0_-2	0,0,0
+two_adic_chart_level_0	input:1,dead:0,simple_total:0,singular_children:2,content_v2:24-24
+two_adic_chart_level_1	input:2,dead:0,simple_total:0,singular_children:8,content_v2:6-9
+two_adic_chart_level_2	input:8,dead:2,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_3	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_4	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_5	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_6	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_7	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_8	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_9	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_10	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_11	input:12,dead:6,simple_total:0,singular_children:12,content_v2:1-8
+two_adic_chart_level_12	input:12,dead:6,simple_total:0,singular_children:12,content_v2:terminal
+two_adic_simple_samples	none
+two_adic_unresolved_residues	13:0,0;13:4096,0;13:2048,0;13:6144,0;13:1024,0;13:5120,0;13:3072,0;13:7168,0;13:0,8190;13:4096,8190;13:2048,8190;13:6144,8190

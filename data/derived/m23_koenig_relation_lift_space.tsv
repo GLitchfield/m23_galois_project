@@ -1,0 +1,17 @@
+# schema	m23-koenig-relation-lift-space-v1
+# code_revision	974eb08c7e0cabd9223983361ce716c0372c6224
+# archive_sha256	62ce6415db167aeeb816d71fba83fc33b8637515d6c66673105c12b49d07dd44
+# candidate_sha256	700f5f8ac1a1581bf163f8397f10ce1dfc0eae285b2c323736f58947d2ab5ad6
+# basis_sha256	1acf75cec42fe9413b66665c857a2347ec66e43210b5716008e489d43933d4c1
+# numerator_columns	9506
+# denominator_columns	6216
+# recovered_relation_dimension	50
+# plane_multiple_dimension	36
+# full_cutoff_relation_dimension	86
+# numerator_support	5252
+# denominator_support	5322
+# numerator_support_restricted_dimension	37
+# full_support_restricted_dimension	1
+# full_support_numerator_rank	1
+# normalized_support_rank_inferred	10573
+# normalization	P[0,1]=1

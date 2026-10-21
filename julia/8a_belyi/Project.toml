@@ -1,0 +1,6 @@
+[deps]
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
+
+[compat]
+HomotopyContinuation = "2.21.0"
+julia = "1.12"

@@ -1,0 +1,36 @@
+# Local and editor state
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python tooling
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Research runs: potentially large, machine-local, or incomplete
+runs/
+checkpoints/
+trash/
+*.log
+*.tmp
+runner.pid
+
+# Generated build products
+build/
+dist/
+formal/.lake/
+
+# Derived caches (committed reference and verified result data are excluded)
+data/processed/
+
+# Secrets backstop
+.env
+.env.*
+*api_key*
+*apikey*
+*.pem
+*.key

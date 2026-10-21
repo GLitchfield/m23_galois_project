@@ -1,0 +1,12 @@
+# experiment=test-0080
+# generated=2026-07-22
+# code_revision=e9db740e4eed552c05d975c49e5eb99e8fc143f9
+# decision=data/derived/m23_8a_belyi_seed_selection.tsv
+# decision_sha256=294471eba821895cfa6ce791f0fb55a29f0d3144b2e56bae4f2af08d3f4a074e
+# seed_sha256=9263258e96374f4f9665748f860275c39bef6971c525978f070d2396b90ba06a
+# endpoint_sha256=feaf68a1859ecd341231f4bc75229a142e5a0fb16da63b89be7356920e0ff077
+# protocol=docs/8a-class22-continuation-protocol.md
+# command=julia --project=julia/8a_belyi julia/8a_belyi/run_root_saturated_continuation.jl ROOT_SEED 1 2,1,4 0 1e-4 ENDPOINT_PREFIX
+# acceptance=return_code=success; interval_certified; coefficient_residual<1e-10; alpha_abs>1e-8; all four chordal separations>1e-8; finite inverse coordinates
+class_id	rotation	normalization	gamma_angle	regularization	return_code	t	path_residual	accepted_steps	endpoint_root_norm	inverse_norm	coefficient_residual	alpha_abs	minimum_chordal_separation	minimum_saturation_abs	endpoint_condition	rank_1e8	rank_1e12	rank_1e16	verdict
+22	1	2,1,4	0	1e-4	terminated_max_steps	1.9865672880894099e-6	8.9292750084736528e-12	800	61.890535895347377	1.0907294317540575	0.00072069936029230531	1.0857961122576934	0.0037458179180396181	2.2727024164553232e-17	4.4973830419031416e33	1	1	4	rejected_max_steps_and_residual

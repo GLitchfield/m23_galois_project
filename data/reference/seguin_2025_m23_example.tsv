@@ -1,0 +1,11 @@
+property	value
+a_order	3
+b_order	3
+generated_group_order	10200960
+gap_class_index	7
+atlas_class	3A
+class_size	56672
+centralizer_size	180
+cycle_shape	1^5 3^6
+tuple_product_one	true
+tuple_generates_m23	true

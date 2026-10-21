@@ -1,0 +1,38 @@
+# generated_by	scripts/gap/certify_3a_inner_nielsen_total.g
+# code_revision	3eb9163118cdba17607e7eb9036c95dd3d8c9302
+# gap_version	4.12.1
+# atlasrep_version	2.1.8
+# ctbllib_version	1.3.7
+# transgrp_version	3.6.5
+# group	MathieuGroup(23)
+# group_order	10200960
+# target_class	3A
+# target_class_size	56672
+# source_pair_checkpoint_sha256	7558e2162db3122eae07e15a285f394c5d993b8a4092e17c2ca707d8af9f1720
+# generation_checks	direct Group(tuple)=M23 and fixed-first maximal-subgroup masks
+property	value
+pair_orbit_count	356
+pair_orbit_coverage_weight	3211715584
+macroblock_count	11474
+materialized_inner_class_count	156693
+character_table_product_one_tuple_count	1588404402816
+weighted_inner_orbit_mass	2335669/15
+generating_inner_nielsen_count	37296
+nongenerating_inner_class_count	119397
+fixed_first_maximal_subgroups	62
+generation_mask_disagreements	0
+nongenerating_subgroup_orders	3,9,12,21,24,36,48,60,96,144,168,180,192,336,360,576,660,960,1344,2520,2688,2880,5760,7920,20160,40320,443520
+
+pair_product_order	inner_classes	generating_inner_classes	nongenerating_inner_classes
+1	356	40	316
+2	2766	64	2702
+3	16063	2232	13831
+4	16616	1936	14680
+5	48765	8560	40205
+6	7491	2088	5403
+7	37478	9296	28182
+8	7232	2240	4992
+11	13750	5808	7942
+14	2030	1456	574
+15	2490	1920	570
+23	1656	1656	0

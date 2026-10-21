@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/GLitchfield/m23_galois_project/blob/main/data/schema/belyi_candidate_v1.schema.json",
+  "title": "Exact Belyi candidate interchange",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "problem",
+    "field",
+    "map",
+    "provenance"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "belyi-candidate-v1"
+    },
+    "problem": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "expected_partitions"],
+      "properties": {
+        "id": {"type": "string", "minLength": 1},
+        "expected_partitions": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 3,
+          "items": {
+            "type": "array",
+            "items": {"type": "integer", "minimum": 1}
+          }
+        }
+      }
+    },
+    "field": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["generator", "defining_polynomial"],
+      "properties": {
+        "generator": {"type": ["string", "null"]},
+        "defining_polynomial": {
+          "type": ["array", "null"],
+          "items": {"$ref": "#/$defs/rational"}
+        }
+      }
+    },
+    "map": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["numerator", "denominator"],
+      "properties": {
+        "numerator": {"$ref": "#/$defs/polynomial"},
+        "denominator": {"$ref": "#/$defs/polynomial"}
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "producer"],
+      "properties": {
+        "source": {
+          "type": "object",
+          "required": ["description"],
+          "properties": {
+            "description": {"type": "string", "minLength": 1},
+            "class_id": {"type": "integer", "minimum": 1},
+            "dataset_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"}
+          }
+        },
+        "producer": {
+          "type": "object",
+          "required": ["software", "revision"],
+          "properties": {
+            "software": {"type": "string", "minLength": 1},
+            "revision": {"type": "string", "minLength": 1},
+            "configuration": {"type": "object"}
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "rational": {
+      "oneOf": [
+        {"type": "integer"},
+        {"type": "string", "pattern": "^-?[0-9]+(/[1-9][0-9]*)?$"}
+      ]
+    },
+    "field_element": {
+      "oneOf": [
+        {"$ref": "#/$defs/rational"},
+        {
+          "type": "array",
+          "items": {"$ref": "#/$defs/rational"}
+        }
+      ]
+    },
+    "polynomial": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"$ref": "#/$defs/field_element"}
+    }
+  }
+}

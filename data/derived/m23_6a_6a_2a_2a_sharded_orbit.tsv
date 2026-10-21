@@ -1,0 +1,5 @@
+# generated_by	scripts/gap/merge_cc2a2a_shards.g
+# gap_version	4.12.1
+# group_order	10200960
+class_order	shard_count	centralizer_orbit_count	assigned_third_count	product_one_fixed_first_tuples	product_one_inner_classes	generating_inner_nielsen_classes	pure_braid_orbit_count	pure_braid_orbit_sizes	pure_braid_orbit_genera	symmetric_orbit_count	symmetric_orbit_sizes	symmetric_orbit_genera	beta12_cycle_shape	beta13_cycle_shape	beta14_cycle_shape	beta4_cycle_shape	eta34_cycle_shape
+6	32	345	3795	1221743	102465	72528	1	72528	15125	1	72528	6065	1^1544 2^8640 3^12208 5^3416	1^36 2^254 3^220 4^799 5^714 6^1129 7^1402 8^754 11^1080 14^798 15^658 23^392	1^36 2^254 3^220 4^799 5^714 6^1129 7^1402 8^754 11^1080 14^798 15^658 23^392	1^88 2^728 3^2488 4^4320 5^3416 6^4860	2^36264

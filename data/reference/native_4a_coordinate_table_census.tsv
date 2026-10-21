@@ -1,0 +1,4 @@
+# schema	m23-native-coordinate-table-census-v1
+# source_checkpoint_sha256	add26b95401d74fbaf29167782667080275d848b8cddabceecef40c2051c75c4
+target_order	target_pair_rows	right_pair_rows	target_raw_bytes	right_raw_bytes	total_raw_bytes
+4	318780	180465	31878000	13895805	45773805
